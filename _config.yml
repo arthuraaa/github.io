@@ -24,10 +24,10 @@ github_username: jekyll
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
 social_username: jekyllrb
-
+theme_color: white	
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
+#theme_color: black
 
 # Build settings
 markdown: kramdown
